@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+   <bean id = "serviceTest" class = "sample.com.service.ServiceTest"> </bean>
+   <bean id = "user" class = "sample.com.trial1.User">  </bean>
+  <!--  <bean id = "product" class = "sample.com.trial1.Product">  </bean>
+ -->
+</beans>
